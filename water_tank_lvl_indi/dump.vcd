@@ -1,0 +1,44 @@
+$date
+	Wed Jan 14 10:48:25 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module water_tank_lvl_tb $end
+$var wire 1 ! motor $end
+$var reg 1 " high_level $end
+$var reg 1 # low_level $end
+$var reg 1 $ reset $end
+$scope module uut $end
+$var wire 1 " high_level $end
+$var wire 1 # low_level $end
+$var wire 1 $ reset $end
+$var reg 1 ! motor $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1$
+0#
+0"
+0!
+$end
+#10
+0$
+#20
+1!
+1#
+#30
+0!
+1"
+0#
+#40
+1#
+#50
